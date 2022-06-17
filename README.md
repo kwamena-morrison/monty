@@ -1,1 +1,1 @@
-The Monty Challenge Project.
+# monty
